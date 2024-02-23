@@ -8,115 +8,130 @@
         content="Discover the world of BrazBrew, where we blend Brazilian beans into exceptional brews. Enjoy the perfect cup of coffee in our cozy haven, where passion meets perfection." />
     <meta name="keywords"
         content="Coffee, Brazilian coffee, Coffee beans, Coffee shop, Brews, Espresso, Cappuccino, Latte, Pastries, Cozy cafe, Relaxing ambiance, Specialty coffee" />
+    <script src="https://kit.fontawesome.com/c49ef5ef9e.js" crossorigin="anonymous"></script>
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon.png" />
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <title>BrazBrew</title>
 </head>
 
 <body>
-    <header>
-        <div class="container">
-            <nav>
-                <a href="#home" class="logo"></a>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#menu">Menu</a></li>
-                    <li><a href="#about-us">About Us</a></li>
-                    <li><a href="#contact-us">Contact</a></li>
+    <header class="header">
+        <div class="header__content">
+            <a href="#" class="logo">BrazBrew</a>
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li class="nav__item"><a href="index.html" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="#menu" class="nav__link">Menu</a></li>
+                    <li class="nav__item"><a href="#about-us-section" class="nav__link">About Us</a></li>
+                    <li class="nav__item"><a href="#contact-us" class="nav__link">Contact</a></li>
                 </ul>
             </nav>
+            <!-- Responsive Navbar -->
+            <div class="hamburger">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
         </div>
     </header>
-    <main class="about-us_bg">
-        <section>
-            <div class="contant-us_container">
-                <h1>Our History</h1>
-                <div class="container-wrapper">
-                    <h1>Welcome to BrazBrew: Your Brazilian Coffee in Dublin</h1>
-                    <p>BrazBrew, we bring the vibrant essence of Brazilian coffee culture to the heart of Dublin,
-                        creating a unique space where coffee aficionados and professionals alike can converge. Our
-                        journey begins with a deep passion for the rich, aromatic coffees of Brazil — a country renowned
-                        for its diverse coffee regions and quality beans. Here at BrazBrew, every sip promises a story
-                        of tradition, flavor, and the warmth of Brazilian hospitality.
+    <main>
+        <section class="abt-us-bg">
+            <div class="abt-us-container">
+                <div class="abt-us-card">
+                    <h1>Our Story</h1>
+                    <div class="card-items-container">
+                        <div class="card-item">
+                            <h2>Welcome to BrazBrew: Your Brazilian Coffee in Dublin</h2>
+                            <p>BrazBrew, we bring the vibrant essence of Brazilian coffee culture to the heart of
+                                Dublin, creating a unique space where coffee aficionados and professionals alike can
+                                converge. Our journey begins with a deep passion for the rich, aromatic coffees of
+                                Brazil — a country renowned for its diverse coffee regions and quality beans. Here
+                                at BrazBrew, every sip promises a story of tradition, flavor, and the warmth of
+                                Brazilian hospitality. <br><br>
 
-                        Our team of skilled baristas serves up a variety of coffee specialties, sourced directly from
-                        Brazilian plantations, ensuring that each cup is a testament to our commitment to quality and
-                        sustainability. Alongside our exceptional coffee, BrazBrew offers a cozy environment for
-                        working, networking, or relaxing. Our location in Dublin's bustling city center is designed to
-                        inspire and energize, with spaces perfect for meetings, collaborative projects, or simply
-                        enjoying a quiet moment away from the office.
+                                Our team of skilled baristas serves up a variety of coffee specialties, sourced
+                                directly from Brazilian plantations, ensuring that each cup is a testament to our
+                                commitment to quality and sustainability. Alongside our exceptional coffee, BrazBrew
+                                offers a cozy environment for working, networking, or relaxing. Our location in
+                                Dublin's bustling city center is designed to inspire and energize, with spaces
+                                perfect for meetings, collaborative projects, or simply enjoying a quiet moment away
+                                from the office. <br><br>
 
-                        But BrazBrew is more than just a coffee shop. We are a community hub with a heart, dedicated to
-                        making a difference. A portion of our proceeds goes towards supporting initiatives that improve
-                        lives and protect the environment, both in Brazil and locally. Through our "Beans for Good"
-                        program, we connect our passion for coffee with our desire to contribute positively to the
-                        world.</p>
-                </div>
-
-                <div class="container-wrapper">
-                    <img src="assets/images/about-us-page.jpg" alt="Man in hat picking coffee into a basket.">
-                    <img src="assets/images/about-us-page-2.jpg" alt="Roasted coffee beans in a roasting machine.">
-                </div>
-
-            </div>
-        </section>
-
-        <section>
-            <div class="connect-section">
-                <div class="connect-warpper">
-                    <h6>By the way</h6>
-                    <h4>Subscribe for our newsletters</h4>
-                    <form id="newsletter-form">
-                        <label for="email">Email Address:</label>
-                        <input type="email" name="email" placeholder="Enter your email" required><br>
-                        <button type="submit">Subscribe</button>
-                    </form>
-                </div>
-                <div class="connect-warpper">
-                    <h6>About Us</h6>
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                    <h6>Address</h6>
-                    <p>Brazbrew Coffee House,51 Wellington Quay,Dublin 2, D02 NH04, Ireland <br>
-                        +353 1 234 5678</p>
-
-                </div>
-                <div class="connect-warpper">
-
-                    <h6>Daily hours</h6>
-                    <ul>
-                        <li>Monday: 7:00 AM - 7:00 PM</li>
-                        <li>Tuesday: 7:00 AM - 7:00 PM</li>
-                        <li>Wednesday: 7:00 AM - 7:00 PM</li>
-                        <li>Thursday: 7:00 AM - 7:00 PM</li>
-                        <li>Friday: 7:00 AM - 8:00 PM</li>
-                        <li>Saturday: 8:00 AM - 4:00 PM</li>
-                        <li>Sunday: 8:00 AM - 3:00 PM</li>
-                    </ul>
+                                But BrazBrew is more than just a coffee shop. We are a community hub with a heart,
+                                dedicated to making a difference. A portion of our proceeds goes towards supporting
+                                initiatives that improve lives and protect the environment, both in Brazil and
+                                locally. Through our "Beans for Good" program, we connect our passion for coffee
+                                with our desire to contribute positively to the world.</p>
+                        </div>
+                        <div class="card-item">
+                            <img src="1.jpg" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
+
+
         </section>
-        <footer>
-            <div class="footer-section">
-                <h5>Follow us on social media</h5>
-                <div class="icons-container">
-                    <i class="fa-brands fa-facebook"></i>
-                    <i class="fa-brands fa-instagram"></i>
-                    <i class="fa-brands fa-twitter"></i>
-                </div>
-                <p>
-                    © 2024 Brazbrew Coffee House. All rights reserved.
+
+
+        <section class="connect-section">
+            <div class="cennect-warpper">
+                <h6>By the way</h6>
+                <h4>Subscribe for our newsletters</h4>
+                <form id="newsletter-form">
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email" placeholder="Enter your email" required><br>
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+            <div id="popup">
+                <p>You've successfully subscribed!
+                    You'll start to receive newsletters from BrazBrew.
                 </p>
+                <button onclick="closePopup()">Close</button>
+            </div>
+            <div class="connect-wrapper">
+                <h6>Links</h6>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Menu</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+
+                <h6>Address</h6>
+                <p>Brazbrew Coffee House, 51 Wellington Quay, Dublin 2, D02 NH04, Ireland <br>
+                    Phone: +353 1 234 5678</p>
 
             </div>
+            <div class="connect-wrapper">
+                <h6>Daily hours</h6>
+                <ul>
+                    <li>Monday: 7:00 AM - 7:00 PM</li>
+                    <li>Tuesday: 7:00 AM - 7:00 PM</li>
+                    <li>Wednesday: 7:00 AM - 7:00 PM</li>
+                    <li>Thursday: 7:00 AM - 7:00 PM</li>
+                    <li>Friday: 7:00 AM - 8:00 PM</li>
+                    <li>Saturday: 8:00 AM - 4:00 PM</li>
+                    <li>Sunday: 8:00 AM - 3:00 PM</li>
+                </ul>
+            </div>
+        </section>
 
-
-        </footer>
     </main>
+    <footer class="footer-section">
+        <h5>Follow us on social media</h5>
+        <div class="icons-container">
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+        </div>
+        <p>
+            © 2024 Brazbrew Coffee House. All rights reserved.
+        </p>
+
+    </footer>
+    <script src="main.js"></script>
 </body>
 
 </html>
