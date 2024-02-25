@@ -7,9 +7,9 @@ Welcome to <a href="https://camilabandeira.github.io/BrazBrew/">BrazBrew</a>, a 
 
 Through our website, customers will be able to:
 
-- Explore Our Extensive Drink Menu: Delve into detailed descriptions of our coffee offerings and prices. Whether you're in the mood for a classic espresso or something more exotic, our menu is designed to cater to your preferences, with alternatives for milk and sweeteners available.
-- Discover Our Story: Journey through the origins of BrazBrew, from our humble beginnings to our passion for Brazilian coffee.
-- Locate Us: Find comprehensive details about our location, including a map.
+- Explore the xxtensive drink Menu: Delve into detailed descriptions of the coffee offerings and prices. Whether you're in the mood for a classic espresso or something more exotic, the menu is designed to cater to your preferences, with alternatives for milk and sweeteners available.
+- Discover the Story: Journey through the origins of BrazBrew, from our humble beginnings to our passion for Brazilian coffee.
+- Location: Find comprehensive details about the location, including a map.
 - Get in Touch: Invite you to reach out with any inquiries, feedback, or just to say hello. The website features a user-friendly contact form with direct email. Whether you're interested in learning more about our coffee, planning an event, or sharing your BrazBrew experience.
 - Newsletter sign-up: Offers customers the opportunity to stay connected with BrazBrew.
 
@@ -17,4 +17,25 @@ This project is not only a showcase of a fictional coffee shop's online hub but 
 
 <h4 align="center"><a href="https://camilabandeira.github.io/BrazBrew/"><strong>Live Project</strong></a></h4>
 
-#
+## Table of Contents
+
+- [User Experience (UX)](#user-experience-ux)
+
+## User Experience (UX)
+
+- ### User stories
+
+  - #### User Goals
+
+    1.  **Ease of Navigation:** Users should find the website easy to navigate, allowing them to explore the drink menu, learn about BrazBrew's story, locate the shop, and get in touch with minimal effort.
+    2.  **Informative and Engaging Content:** The website should provide comprehensive and appealing information about the coffee offerings, including descriptions, prices, and customization options (e.g., milk and sweetener alternatives).
+    3.  **Interactive and User-Friendly Contact Options:** Users should be able to easily contact BrazBrew through a simple yet effective contact form, encouraging communication and feedback.
+    4.  **Accessible Location Information:** The website should offer detailed location information, including a map, to assist users in finding BrazBrew's physical shop.
+        5 . **Opportunity for Engagement:** Users should have the option to sign up for a newsletter, fostering a connection with BrazBrew and staying informed about updates, promotions, or events.
+
+  - #### Company Goals
+
+    1. **Brand Awareness and Engagement:** Through the website, BrazBrew aims to enhance its online presence, showcasing its unique selection of Brazilian coffee and the company's story to attract and retain customers.
+    2. **Customer Interaction and Feedback:** The website should serve as a platform for BrazBrew to receive inquiries, feedback, and communicate directly with customers, improving customer service and satisfaction.
+    3. **Promotion and Marketing:** By offering an engaging online experience and the option for users to sign up for a newsletter, BrazBrew seeks to promote its products and events more effectively.
+    4. **Analytics and Insights:** The website will provide valuable insights into customer behavior and preferences, aiding in strategic planning and decision-making for future growth and development.
