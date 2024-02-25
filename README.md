@@ -41,9 +41,11 @@ This project is not only a showcase of a fictional coffee shop's online hub but 
     3. **Promotion and Marketing:** By offering an engaging online experience and the option for users to sign up for a newsletter, BrazBrew seeks to promote its products and events more effectively.
     4. **Analytics and Insights:** The website will provide valuable insights into customer behavior and preferences, aiding in strategic planning and decision-making for future growth and development.
 
-## Color Scheme
+## Design
 
-![Colors](https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/color-scheme.png "Color Scheme")
+- ### Colour Scheme
+
+![Colors](https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/colour-scheme.webp "Color Scheme")
 
 **#E9D9BE:** Creamy Beige, evoking the smooth texture of coffee.
 **#AC933C:** Golden Brown, reminiscent of roasted beans.
@@ -52,3 +54,9 @@ This project is not only a showcase of a fictional coffee shop's online hub but 
 **#1F4634:** Rich Foliage Green, symbolizing the dense Brazilian coffee regions.
 
 Each color is chosen to create an inviting and thematic experience for our visitors, reflecting the quality and origin of our beans.
+
+- ### Typography
+
+![Colors](https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/typography.webp "Color Scheme")
+
+Choosing the Poppins font for the BrazBrew website enhances its modern and welcoming vibe. Its geometric design reflects professionalism, while its rounded edges convey approachability, perfectly complementing BrazBrew's brand identity as a friendly and innovative coffee shop.
