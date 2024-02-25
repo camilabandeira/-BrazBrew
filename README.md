@@ -7,7 +7,7 @@ Welcome to <a href="https://camilabandeira.github.io/BrazBrew/">BrazBrew</a>, a 
 
 Through our website, customers will be able to:
 
-- Explore the xxtensive drink Menu: Delve into detailed descriptions of the coffee offerings and prices. Whether you're in the mood for a classic espresso or something more exotic, the menu is designed to cater to your preferences, with alternatives for milk and sweeteners available.
+- Explore the extensive drink Menu: Delve into detailed descriptions of the coffee offerings and prices. Whether you're in the mood for a classic espresso or something more exotic, the menu is designed to cater to your preferences, with alternatives for milk and sweeteners available.
 - Discover the Story: Journey through the origins of BrazBrew, from our humble beginnings to our passion for Brazilian coffee.
 - Location: Find comprehensive details about the location, including a map.
 - Get in Touch: Invite you to reach out with any inquiries, feedback, or just to say hello. The website features a user-friendly contact form with direct email. Whether you're interested in learning more about our coffee, planning an event, or sharing your BrazBrew experience.
