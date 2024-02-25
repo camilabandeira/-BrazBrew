@@ -16,6 +16,7 @@
 
 body {
     min-height: 100vh;
+    font-family: "Poppins", sans-serif;
 }
 
 img,
@@ -40,4 +41,39 @@ a {
     --clr-medium-green: #0A4E2F;
     --clr-off-white: #FBFBFB;
     --clr-deep-green: #1F4634;
+}
+
+/* header and navbar */
+.header {
+    background-color: var(--clr-dark-green);
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.header__content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 20px;
+}
+
+.logo {
+    color: var(--clr-beige);
+    font-size: 1.5625rem;
+    font-weight: 600;
+
+}
+
+.nav__list {
+    display: flex;
+    align-items: center;
+    column-gap: 1.875rem;
+    padding: 0 1.875rem;
+    min-height: 60px;
+}
+
+.nav__link {
+    color: var(--clr-beige);
+    font-weight: 400;
 }

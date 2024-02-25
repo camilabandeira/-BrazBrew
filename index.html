@@ -14,20 +14,26 @@
 </head>
 
 <body>
-    <header>
-        <div class="container">
-            <nav>
-                <a href="#home" class="logo"></a>
-                <ul>
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#menu">Menu</a></li>
-                    <li><a href="about-us.html" target="_blank">About Us</a></li>
-                    <li><a href="#contact-us">Contact</a></li>
+    <header class="header">
+        <div class="header__content">
+            <a href="#" class="logo">BrazBrew</a>
+            <nav class="nav">
+                <ul class="nav__list">
+                    <li class="nav__item"><a href="index.html" class="nav__link">Home</a></li>
+                    <li class="nav__item"><a href="#menu" class="nav__link">Menu</a></li>
+                    <li class="nav__item"><a href="#about-us-section" class="nav__link">About Us</a></li>
+                    <li class="nav__item"><a href="#contact-us" class="nav__link">Contact</a></li>
                 </ul>
             </nav>
+            <!-- Responsive Navbar -->
+            <div class="hamburger">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </div>
         </div>
     </header>
-
     <main>
         <section>
             <div class="container">
@@ -334,16 +340,18 @@
 
                 <form action="/submit-form" method="post" id="contact-us-form">
                     <label for="name">Name</label>
-                    <input type="text" id="name" name="name" placeholder="First Name" required><br>
+                    <input type="text" id="name" name="name" autocomplete="name" placeholder="First Name" required>
 
                     <label for="email">Email Address:</label>
-                    <input type="email" id="email" name="email" placeholder="Email Address" required><br>
+                    <input type="email" id="email" name="email" autocomplete="email" placeholder="Email Address"
+                        required>
 
                     <label for="subject">Subject</label>
-                    <input type="text" id="subject" name="subject" placeholder="Subject" required><br>
+                    <input type="text" id="subject" name="subject" autocomplete="subject" placeholder="Subject"
+                        required>
 
                     <label for="message">Message</label>
-                    <textarea id="message" name="message" placeholder="Your message" required></textarea><br>
+                    <textarea id="message" name="message" placeholder="Your message" required></textarea>
 
                     <input type="submit" value="Send Message" id="contact-us-submit-btn">
                 </form>
@@ -358,7 +366,8 @@
                     <h4>Subscribe for our newsletters</h4>
                     <form id="newsletter-form">
                         <label for="email">Email Address:</label>
-                        <input type="email" name="email" placeholder="Enter your email" required><br>
+                        <input type="email" name="email" autocomplete="email" placeholder="Enter your email"
+                            required><br>
                         <button type="submit">Subscribe</button>
                     </form>
                 </div>
