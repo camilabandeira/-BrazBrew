@@ -29,3 +29,15 @@ video {
 a {
     color: inherit;
 }
+
+/* CSS variables */
+
+:root {
+    --text-body: "Poppins", sans-serif;
+    --clr-beige: #D6CBB8;
+    --clr-gold: #AC933C;
+    --clr-dark-green: #0B1611;
+    --clr-medium-green: #0A4E2F;
+    --clr-off-white: #FBFBFB;
+    --clr-deep-green: #1F4634;
+}
