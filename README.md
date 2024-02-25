@@ -20,6 +20,7 @@ This project is not only a showcase of a fictional coffee shop's online hub but 
 ## Table of Contents
 
 - [User Experience (UX)](#user-experience-ux)
+  - [User Stories](#user-stories)
 
 ## User Experience (UX)
 
@@ -39,3 +40,15 @@ This project is not only a showcase of a fictional coffee shop's online hub but 
     2. **Customer Interaction and Feedback:** The website should serve as a platform for BrazBrew to receive inquiries, feedback, and communicate directly with customers, improving customer service and satisfaction.
     3. **Promotion and Marketing:** By offering an engaging online experience and the option for users to sign up for a newsletter, BrazBrew seeks to promote its products and events more effectively.
     4. **Analytics and Insights:** The website will provide valuable insights into customer behavior and preferences, aiding in strategic planning and decision-making for future growth and development.
+
+## Color Scheme
+
+![Colors](https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/color-scheme.png "Color Scheme")
+
+**#E9D9BE:** Creamy Beige, evoking the smooth texture of coffee.
+**#AC933C:** Golden Brown, reminiscent of roasted beans.
+**#0B1611:** & #0A4E2F: Deep Greens, representing the lushness of coffee plantations.
+**#FBFBFB:** Clean White, for a fresh and inviting look.
+**#1F4634:** Rich Foliage Green, symbolizing the dense Brazilian coffee regions.
+
+Each color is chosen to create an inviting and thematic experience for our visitors, reflecting the quality and origin of our beans.
