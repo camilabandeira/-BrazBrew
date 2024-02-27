@@ -13,6 +13,9 @@ This project was developed for the Code Institute's Diploma in Full-Stack Softwa
 
 - [User Experience (UX)](#user-experience-ux)
   - [User Stories](#user-stories)
+- [Design](#colour-scheme)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
 
 ## User Experience (UX)
 
