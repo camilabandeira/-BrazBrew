@@ -17,6 +17,7 @@
 body {
     min-height: 100vh;
     font-family: "Poppins", sans-serif;
+    color: var(--clr-dark-green);
 }
 
 img,
@@ -91,7 +92,7 @@ a {
     margin: 3px 0;
     opacity: 0.8;
     transition: all .3s ease-in-out;
-    border-radius: 15px;
+    border-radius: 0.9375rem;
 }
 
 .nav--open {
@@ -134,6 +135,7 @@ a {
     font-size: 0.8125rem;
     text-transform: uppercase;
     letter-spacing: 1px;
+    line-height: 0;
     text-align: center;
     padding: 20px;
 }
@@ -163,9 +165,85 @@ a {
     color: var(--clr-gold);
 }
 
+/* menu section */
+
+.menu-section {
+    background-color: var(--clr-off-white);
+    padding: 15px;
+
+}
+
+.menu-title {
+    font-size: 1.5625rem;
+    font-weight: 700;
+    color: var(--clr-medium-green);
+    padding-left: 0.625rem;
+    padding-top: 0.9375rem;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.menu-itens {
+    flex-basis: calc(33.333% - 10px);
+    text-align: center;
+    padding: 10px;
+}
+
+.menu-list {
+    border-bottom: 1px dotted #000;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 3px;
+}
+
+.menu-itens h3 {
+    font-size: 1.125rem;
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+    text-align: left;
+
+}
+
+.item-name {
+    font-weight: 600;
+}
+
+.menu-itens ul>span {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    margin-bottom: 13px;
+    font-weight: 300;
+
+}
+
+
+.coffee-bean-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    margin-bottom: 1.25rem;
+    padding-top: 2.5rem;
+
+
+}
+
+.coffee-bean-icon img {
+    width: 19px;
+    height: auto;
+}
+
 /* responsive tablet and mobile */
 
-@media (max-width: 800px) {
+@media (max-width: 880px) {
 
     /* navbar */
     .header {
@@ -211,10 +289,18 @@ a {
         font-size: 2.1875rem;
         width: 60%;
     }
+
+    /* menu section */
+    .menu-container {
+        flex-direction: column;
+    }
+
+    .menu-itens {
+        flex-basis: calc(50% - 20px);
+    }
 }
 
-@media (min-width: 390px) {
-
+@media (max-width: 390px) {
     .hero-section-wrapper h1 {
         font-size: 1.6875rem;
         width: 85%;
