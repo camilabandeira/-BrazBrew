@@ -263,7 +263,7 @@ a {
     font-weight: 300;
 }
 
-form {
+.contact_us-section form {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
@@ -310,6 +310,124 @@ input {
 .contact-us-form,
 .contact-us-img {
     flex: 1;
+}
+
+/* connect section */
+.connect-section {
+    display: flex;
+    background-color: var(--clr-off-white);
+    gap: 60px;
+    padding: 20px;
+    max-width: 100%;
+}
+
+.connect-section>* {
+    flex: 1 1 100%;
+}
+
+.connect-section h6 {
+    display: block;
+    color: var(--clr-deep-green);
+    font-weight: 600;
+    margin: 10px 0;
+
+}
+
+.connect-section h4 {
+    width: 80%;
+    font-size: 25px;
+    line-height: 39px;
+    margin: 15px 0;
+    color: var(--clr-dark-green);
+    line-height: 1;
+    font-weight: 300;
+}
+
+.connect-wrapper p {
+    margin-top: -5px;
+}
+
+.connect-wrapper li {
+    font-weight: 300;
+}
+
+.connect-section input {
+    border: 1px solid var(--clr-dark-green);
+    border-radius: 0;
+    padding: 8px;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.connect-section button {
+    border: none;
+    background-color: var(--clr-dark-green);
+    color: var(--clr-beige);
+    padding: 8px 20px;
+    margin-top: 15px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.04);
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.connect-section button:hover {
+    background-color: var(--clr-dark-green);
+}
+
+.connect-section label {
+    display: block;
+    color: var(--clr-deep-green);
+    margin: 3px;
+
+}
+
+.connect-section ul li a {
+    color: var(--clr-dark-green);
+}
+
+/* popup for newsletter */
+.connect-section #popup {
+    display: none;
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    background-color: var(--clr-off-white);
+    box-shadow: 0px 7px 58px -29px rgba(18, 47, 18, 0.75);
+    color: var(--clr-deep-green);
+    border: none;
+    padding: 20px;
+    z-index: 1000;
+}
+
+/* footer section */
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--clr-dark-green);
+    color: var(--clr-beige);
+    text-align: center;
+    padding: 10px;
+
+}
+
+.footer-section .icons-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 5px 0;
+}
+
+.footer-section>h5,
+.footer-section>p {
+    font-size: 14px;
+    padding-top: 5px;
+
+
 }
 
 /* responsive tablet and mobile */
@@ -377,7 +495,9 @@ input {
         height: 57.25rem;
     }
 
-
+    .contact-us-img {
+        width: 100%;
+    }
 
     .contact-us-form {
         padding: 5px;
@@ -402,6 +522,16 @@ input {
 
     .contact-us-btn {
         margin-bottom: 20px;
+    }
+
+    /* connect section  */
+    .connect-section {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        background-color: var(--clr-off-white);
+        max-width: 100%;
+
     }
 
 }

@@ -8,6 +8,7 @@
         content="Discover the world of BrazBrew, where we blend Brazilian beans into exceptional brews. Enjoy the perfect cup of coffee in our cozy haven, where passion meets perfection." />
     <meta name="keywords"
         content="Coffee, Brazilian coffee, Coffee beans, Coffee shop, Brews, Espresso, Cappuccino, Latte, Pastries, Cozy cafe, Relaxing ambiance, Specialty coffee" />
+    <script src="https://kit.fontawesome.com/c49ef5ef9e.js" crossorigin="anonymous"></script>
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon.png" />
     <link rel="stylesheet" href="assets/css/styles.css">
     <title>BrazBrew</title>
@@ -347,32 +348,37 @@
         </section>
 
         <section>
-            <div class="connect-section">
-                <div class="connect-warpper">
+            <section class="connect-section">
+                <div class="cennect-warpper">
                     <h6>By the way</h6>
                     <h4>Subscribe for our newsletters</h4>
                     <form id="newsletter-form">
                         <label for="email">Email Address:</label>
-                        <input type="email" name="email" autocomplete="email" placeholder="Enter your email"
-                            required><br>
+                        <input type="email" id="email" name="email" placeholder="Enter your email" required><br>
                         <button type="submit">Subscribe</button>
                     </form>
                 </div>
-                <div class="connect-warpper">
-                    <h6>About Us</h6>
+                <div id="popup">
+                    <p>You've successfully subscribed!
+                        <span>You'll start to receive newsletters from BrazBrew.
+                    </p>
+                    <button onclick="closePopup()">Close</button>
+                </div>
+                <div class="connect-wrapper">
+                    <h6>Links</h6>
                     <ul>
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Menu</a></li>
                         <li><a href="#">About</a></li>
                         <li><a href="#">Contact Us</a></li>
                     </ul>
+
                     <h6>Address</h6>
-                    <p>Brazbrew Coffee House,51 Wellington Quay,Dublin 2, D02 NH04, Ireland <br>
-                        +353 1 234 5678</p>
+                    <p>Brazbrew Coffee House, 51 Wellington Quay, Dublin 2, D02 NH04, Ireland <br>
+                        Phone: +353 1 234 5678</p>
 
                 </div>
-                <div class="connect-warpper">
-
+                <div class="connect-wrapper">
                     <h6>Daily hours</h6>
                     <ul>
                         <li>Monday: 7:00 AM - 7:00 PM</li>
@@ -384,24 +390,21 @@
                         <li>Sunday: 8:00 AM - 3:00 PM</li>
                     </ul>
                 </div>
-            </div>
-        </section>
-        <footer>
-            <div class="footer-section">
-                <h5>Follow us on social media</h5>
-                <div class="icons-container">
-                    <i class="fa-brands fa-facebook"></i>
-                    <i class="fa-brands fa-instagram"></i>
-                    <i class="fa-brands fa-twitter"></i>
-                </div>
-                <p>
-                    © 2024 Brazbrew Coffee House. All rights reserved.
-                </p>
+            </section>
 
-            </div>
+    </main>
+    <footer class="footer-section">
+        <h5>Follow us on social media</h5>
+        <div class="icons-container">
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-twitter"></i>
+        </div>
+        <p>
+            © 2024 Brazbrew Coffee House. All rights reserved.
+        </p>
 
-
-        </footer>
+    </footer>
 
     </main>
     <script src="assets/js/main.js"></script>
