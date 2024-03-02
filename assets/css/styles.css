@@ -117,7 +117,7 @@ a {
     background-size: cover;
     background-position: center;
     color: var(--clr-beige);
-    height: 90vh;
+    height: 100vh;
 }
 
 .hero-section-wrapper {
@@ -127,7 +127,7 @@ a {
     justify-content: center;
     flex-wrap: nowrap;
     background-color: rgba(11, 22, 17, 0.8);
-    height: 90vh;
+    height: 100vh;
 }
 
 .hero-section-wrapper h3 {
@@ -150,7 +150,7 @@ a {
 }
 
 .hero-section-wrapper a {
-    width: 6.25rem;
+    width: 8.25rem;
     border: 1px solid var(--clr-beige);
     padding: 0.625rem;
     margin-top: 15px;
@@ -269,7 +269,6 @@ a {
     margin: 0 auto;
     gap: 8px;
     padding: 1.875rem;
-    width: 85%;
 }
 
 textarea {
@@ -479,7 +478,7 @@ input {
         width: 60%;
     }
 
-    /* menu section responsive */
+    /* menu section  */
     .menu-container {
         flex-direction: column;
     }
@@ -488,7 +487,7 @@ input {
         flex-basis: calc(50% - 20px);
     }
 
-    /* contact us section responsive */
+    /* contact us section  */
 
     .contact_us-section {
         flex-direction: column;
@@ -500,23 +499,22 @@ input {
     }
 
     .contact-us-form {
-        padding: 5px;
-        margin-top: 45px;
-        width: 85%;
+        padding: 0;
+        margin-top: 20px;
+        width: 90%;
+
     }
 
-    form {
-        width: 100%;
+    .contact-us-form form {
         padding: 0;
-        gap: 10px;
+        gap: 9px;
     }
 
     .contact-us-form h2 {
-        width: 90%;
         line-height: 1;
         font-size: 1.125rem;
-        margin-bottom: 0.625rem;
         text-align: center;
+        padding: 20px;
         margin: 0 auto;
     }
 
@@ -546,4 +544,5 @@ input {
         font-size: 0.625rem;
         padding-bottom: 1px;
     }
+
 }
