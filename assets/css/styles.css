@@ -446,6 +446,67 @@ input {
 
 }
 
+/* about us page */
+.abt-us-bg {
+    background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.abt-us-container {
+    padding: 5rem 0;
+}
+
+.abt-us-card {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--clr-dark-green);
+    color: var(--clr-beige);
+    font-size: 14px;
+    width: 70%;
+    margin: 0 auto;
+    padding: 1.5625rem;
+}
+
+.abt-us-card h1 {
+    width: 100%;
+    text-align: center;
+    color: var(--clr-gold);
+    font-size: 1.875rem;
+    margin-bottom: 1.25rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card-items-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-item {
+    width: 100%;
+}
+
+.card-item h2 {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.625rem;
+
+}
+
+.card-item:first-child {
+    font-weight: 200;
+    width: 62%;
+    text-align: justify;
+
+}
+
+.card-item:last-child {
+
+    width: 35%;
+}
+
 /* responsive tablet and mobile */
 
 @media (max-width: 880px) {
@@ -549,6 +610,27 @@ input {
 
     }
 
+    /* about us page */
+
+    .abt-us-card {
+        width: 85%;
+    }
+
+    .card-items-container {
+        flex-direction: column;
+    }
+
+    .card-item {
+
+        margin-bottom: 1rem;
+        margin: 0 auto;
+    }
+
+    .card-item:first-child,
+    .card-item:last-child {
+        margin-bottom: 1.25rem;
+        width: 95%;
+    }
 
 
 }
