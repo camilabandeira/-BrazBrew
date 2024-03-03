@@ -396,20 +396,27 @@ input {
     color: var(--clr-dark-green);
 }
 
-/* popup for newsletter */
-.connect-section #popup {
-    display: none;
-    position: fixed;
-    top: 35%;
-    left: 50%;
-    text-align: center;
-    transform: translate(-50%, -50%);
-    background-color: var(--clr-off-white);
-    box-shadow: 0px 7px 58px -29px rgba(18, 47, 18, 0.75);
-    color: var(--clr-deep-green);
-    border: none;
+/* newslleter alert */
+#customAlert {
+    background-color: var(--clr-deep-green);
+    color: var(--clr-beige);
     padding: 20px;
-    z-index: 1000;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 6px rgba(49, 82, 49, 0.1);
+    width: 80%;
+    max-width: 400px;
+    font-size: 14px;
+    text-align: center;
+}
+
+#customAlert span {
+    display: block;
+    font-size: 12px;
+    line-height: 17px;
+    color: var(--clr-gold);
 }
 
 /* footer section */
