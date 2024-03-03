@@ -313,12 +313,18 @@ input {
 
 
 .contact_us-section h5 {
-    padding: 25px 10px;
-    margin-bottom: 50px;
-    text-align: left;
+    padding: 1.5625rem 0.625rem;
+    margin-bottom: 3.125rem;
+    margin: 0 auto;
+    text-align: center;
     color: var(--clr-gold);
-    font-weight: 600;
+    font-weight: 700;
     display: none;
+    width: 70%;
+}
+
+.contact_us-section h5 p {
+    margin: 10px;
 }
 
 /* connect section */
