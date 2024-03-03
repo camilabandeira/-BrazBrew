@@ -311,6 +311,16 @@ input {
     flex: 1;
 }
 
+
+.contact_us-section h5 {
+    padding: 25px 10px;
+    margin-bottom: 50px;
+    text-align: left;
+    color: var(--clr-gold);
+    font-weight: 600;
+    display: none;
+}
+
 /* connect section */
 .connect-section {
     display: flex;
@@ -531,6 +541,8 @@ input {
         max-width: 100%;
 
     }
+
+
 
 }
 
