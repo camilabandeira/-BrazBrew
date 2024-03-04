@@ -1,4 +1,5 @@
 <h1 align="center"> BrazBrew Website - Code Institute Project 1</h1>
+
 <div align="center"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/camilabandeira/brazbrew">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/camilabandeira/brazbrew">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/camilabandeira/brazbrew"></div>
@@ -6,6 +7,9 @@
 Welcome to <a href="https://camilabandeira.github.io/BrazBrew/">BrazBrew</a>, a fictional coffee shop, which prides itself on offering a unique selection of Brazilian coffee. The goal is to create a comprehensive online presence for BrazBrew that serves as a virtual extension of our physical shop.
 
 This project was developed for the Code Institute's Diploma in Full-Stack Software Development course. Not only a showcase of a fictional coffee shop's online hub but also a reflection of the skills and knowledge I've acquired through my studies. It represents a bridge between theoretical learning and practical application, demonstrating my ability to create a functional and engaging website from scratch.
+
+<img width="959" align="center" alt="Screenshot 2024-03-04 at 19 20 12" src="https://github.com/camilabandeira/BrazBrew/assets/118302468/1ab537e8-a150-49f6-af54-d33deb853d0e">
+<br>
 
 <h4 align="center"><a href="https://camilabandeira.github.io/BrazBrew/"><strong>Live Project</strong></a></h4>
 
