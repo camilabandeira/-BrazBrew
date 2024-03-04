@@ -113,11 +113,21 @@ a {
 
 /* hero section */
 .hero-section-container {
-    background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
+    /* background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
     background-size: cover;
-    background-position: center;
+    background-position: center; */
     color: var(--clr-beige);
     height: 100vh;
+}
+
+.bg-video {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
 }
 
 .hero-section-wrapper {
@@ -126,7 +136,7 @@ a {
     align-items: center;
     justify-content: center;
     flex-wrap: nowrap;
-    background-color: rgba(11, 22, 17, 0.8);
+    background-color: rgba(11, 22, 17, 0.5);
     height: 100vh;
 }
 
@@ -453,14 +463,9 @@ input {
 }
 
 /* about us page */
-.abt-us-bg {
-    background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
-    background-size: cover;
-    background-position: center;
-}
-
 .abt-us-container {
     padding: 5rem 0;
+    height: 100vh;
 }
 
 .abt-us-card {
