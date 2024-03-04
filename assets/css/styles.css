@@ -463,9 +463,14 @@ input {
 }
 
 /* about us page */
+.about-bg {
+    background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
+    background-size: cover;
+    background-position: center;
+}
+
 .abt-us-container {
     padding: 5rem 0;
-    height: 100vh;
 }
 
 .abt-us-card {
