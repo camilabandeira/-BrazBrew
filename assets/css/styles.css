@@ -322,7 +322,7 @@ input {
 }
 
 
-.contact_us-section h5 {
+.contact_us-section .thank-you-msg {
     padding: 1.5625rem 0.625rem;
     margin-bottom: 3.125rem;
     margin: 0 auto;
