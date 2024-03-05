@@ -113,14 +113,14 @@ a {
 
 /* hero section */
 .hero-section-container {
-    /* background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
-    background-size: cover;
-    background-position: center; */
     color: var(--clr-beige);
     height: 100vh;
 }
 
 .bg-video {
+    background-image: url(https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/hero-section-img.webp);
+    background-size: cover;
+    background-position: center;
     position: absolute;
     right: 0;
     left: 0;
