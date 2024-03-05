@@ -224,7 +224,7 @@ a {
     font-weight: 600;
 }
 
-.menu-itens ul>span {
+.menu-description {
     display: block;
     text-align: left;
     font-size: 13px;
