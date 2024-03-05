@@ -147,6 +147,7 @@ a {
     letter-spacing: 1px;
     text-align: center;
     padding: 20px;
+    margin-bottom: -22px;
 }
 
 .hero-section-wrapper h1 {
@@ -290,7 +291,7 @@ textarea {
 }
 
 input {
-    border: 1 solid var(--clr-off-white);
+    border: 1px solid transparent;
 }
 
 .contact-us-btn {
