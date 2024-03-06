@@ -712,7 +712,7 @@ input {
     .hero-section-wrapper h3 {
         font-size: 0.625rem;
         padding-bottom: 1px;
-        margin-bottom: 5px;
+        margin-bottom: -1px;
     }
 
 }
