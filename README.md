@@ -86,8 +86,19 @@ Choosing the Poppins font for the BrazBrew website enhances its modern and welco
 
 ![IMG_4127](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
 
+<br>
+
 <h3 align="center"> Hero section</h3>
  
 - The hero section was chosen to immediately captivate visitors with a dynamic video background showcasing the essence of Brazilian coffee culture. It highlights "Bean to Brew: Pure Brazilian Essence" and invites users to explore "Brazil's Finest Beans" through the menu. This approach not only grabs attention but also sets the theme and quality expectation for the BrazBrew experience, encouraging further exploration with a direct call to action.
 
 ![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/3a8da399-b1f4-4c28-986d-43379a198967)
+
+<br>
+
+<h3 align="center"> Menu section</h3>
+ 
+- The menu section was designed to clearly showcase the wide variety of offerings at BrazBrew, organized into categories like "Coffee Specialties," "Iced Coffee," and "BrazBrew Signature" for drinks, and similar groupings for food. The use of a coffee bean icon as a visual element reinforces the theme and passion for coffee, while detailed descriptions and prices provide transparency and help customers make informed choices. This layout ensures a user-friendly experience, allowing visitors to easily browse and decide what they’d like to try.
+
+![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/2e71693c-3b11-423f-a096-bc659faac73e)
+![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/b9aef0a1-6539-4aab-b9b0-e8cae1ac780d)
