@@ -68,7 +68,7 @@ Choosing the Poppins font for the BrazBrew website enhances its modern and welco
 
 ### Existing Features
 
-<h4 align="center"> Navigation</h4>
+<h3 align="center"> Navigation</h3>
 
 - This navbar was chosen for its simplicity, functionality, and responsiveness. It prominently features the "BrazBrew" logo for brand recognition, and offers essential navigation options: "Home," "Menu," "About Us," and "Contact." These choices reflect the most important information visitors seek, ensuring a straightforward user experience.
 
@@ -78,10 +78,16 @@ Choosing the Poppins font for the BrazBrew website enhances its modern and welco
 
 1. **Desktop**
 
-<img width="1492" alt="Screenshot 2024-03-10 at 22 34 06" src="https://github.com/camilabandeira/BrazBrew/assets/118302468/a94ffce1-cb62-4cf9-8cbc-5451e1931a33">
+![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/a94ffce1-cb62-4cf9-8cbc-5451e1931a33)
 
 2. **Small devices**
 
 ![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/a198125e-072e-4eff-be1f-dda9c892258c)
 
 ![IMG_4127](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
+
+<h3 align="center"> Hero section</h3>
+ 
+- The hero section was chosen to immediately captivate visitors with a dynamic video background showcasing the essence of Brazilian coffee culture. It highlights "Bean to Brew: Pure Brazilian Essence" and invites users to explore "Brazil's Finest Beans" through the menu. This approach not only grabs attention but also sets the theme and quality expectation for the BrazBrew experience, encouraging further exploration with a direct call to action.
+
+![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/3a8da399-b1f4-4c28-986d-43379a198967)
