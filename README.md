@@ -59,3 +59,29 @@ Each color is chosen to create an inviting and thematic experience for our visit
 ![Colors](https://raw.githubusercontent.com/camilabandeira/BrazBrew/master/assets/images/typography.webp "Color Scheme")
 
 Choosing the Poppins font for the BrazBrew website enhances its modern and welcoming vibe. Its geometric design reflects professionalism, while its rounded edges convey approachability, perfectly complementing BrazBrew's brand identity as a friendly and innovative coffee shop.
+
+- #### Wireframes
+
+  In the process of creating my wireframe, I selected Figma as the main tool because of its outstanding abilities in visualizing projects and its importance in encouraging creativity during the design phase. This decision was crucial in making the design workflow easier and improving the overall creative quality, which greatly helped the project's development stage.
+
+  ## Features
+
+### Existing Features
+
+<h4 align="center"> Navigation</h4>
+
+- This navbar was chosen for its simplicity, functionality, and responsiveness. It prominently features the "BrazBrew" logo for brand recognition, and offers essential navigation options: "Home," "Menu," "About Us," and "Contact." These choices reflect the most important information visitors seek, ensuring a straightforward user experience.
+
+  The responsive design, indicated by the "hamburger" menu, is crucial for mobile users, adapting the site's navigation to various screen sizes without sacrificing usability. Anchor links for "Menu" and "Contact" facilitate smooth scrolling to specific page sections, improving site interaction and accessibility.
+
+  Overall, this navbar design effectively balances user needs with clean aesthetics, enhancing the website's navigability and engagement.
+
+1. **Desktop**
+
+<img width="1492" alt="Screenshot 2024-03-10 at 22 34 06" src="https://github.com/camilabandeira/BrazBrew/assets/118302468/a94ffce1-cb62-4cf9-8cbc-5451e1931a33">
+
+2. **Small devices**
+
+![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/a198125e-072e-4eff-be1f-dda9c892258c)
+
+![IMG_4127](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
