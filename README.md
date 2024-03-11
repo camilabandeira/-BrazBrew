@@ -140,3 +140,11 @@ The "About Us" page for BrazBrew is designed to connect with readers by sharing 
 I chose to create this custom 404 page to improve how my site handles missing pages. It's clear and straightforward, immediately telling visitors they've hit a dead end with a friendly "404 - Page Not Found" message. I included a bit of context to ease any frustration, explaining the page might be gone or moved. The "Back to Homepage" link is key; it gives a simple way back to familiar territory, helping to keep visitors on the site even when they wander off the path. This page turns a potential negative experience into a helpful nudge back to where they want to be.
 
 ![SCREENSHOT_ABOUT-US](https://github.com/camilabandeira/BrazBrew/assets/118302468/5d43c6ac-7e52-4756-a05b-f7895b4e3cfd)
+
+## Technologies
+
+### Programming Languages
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
