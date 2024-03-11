@@ -70,35 +70,73 @@ Choosing the Poppins font for the BrazBrew website enhances its modern and welco
 
 <h3 align="center"> Navigation</h3>
 
-- This navbar was chosen for its simplicity, functionality, and responsiveness. It prominently features the "BrazBrew" logo for brand recognition, and offers essential navigation options: "Home," "Menu," "About Us," and "Contact." These choices reflect the most important information visitors seek, ensuring a straightforward user experience.
+This navbar was chosen for its simplicity, functionality, and responsiveness. It prominently features the "BrazBrew" logo for brand recognition, and offers essential navigation options: "Home," "Menu," "About Us," and "Contact." These choices reflect the most important information visitors seek, ensuring a straightforward user experience.
 
-  The responsive design, indicated by the "hamburger" menu, is crucial for mobile users, adapting the site's navigation to various screen sizes without sacrificing usability. Anchor links for "Menu" and "Contact" facilitate smooth scrolling to specific page sections, improving site interaction and accessibility.
+The responsive design, indicated by the "hamburger" menu, is crucial for mobile users, adapting the site's navigation to various screen sizes without sacrificing usability. Anchor links for "Menu" and "Contact" facilitate smooth scrolling to specific page sections, improving site interaction and accessibility.
 
-  Overall, this navbar design effectively balances user needs with clean aesthetics, enhancing the website's navigability and engagement.
+Overall, this navbar design effectively balances user needs with clean aesthetics, enhancing the website's navigability and engagement.
 
 1. **Desktop**
 
-![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/a94ffce1-cb62-4cf9-8cbc-5451e1931a33)
+![SCREENSHOT_NAVBAR](https://github.com/camilabandeira/BrazBrew/assets/118302468/a94ffce1-cb62-4cf9-8cbc-5451e1931a33)
 
 2. **Small devices**
 
-![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/a198125e-072e-4eff-be1f-dda9c892258c)
+![SCREENSHOT_NAVBAR](https://github.com/camilabandeira/BrazBrew/assets/118302468/a198125e-072e-4eff-be1f-dda9c892258c)
 
-![IMG_4127](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
+![SCREENSHOT_NAVBAR](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
 
 <br>
 
-<h3 align="center"> Hero section</h3>
+<h3 align="center"> Hero Section</h3>
  
-- The hero section was chosen to immediately captivate visitors with a dynamic video background showcasing the essence of Brazilian coffee culture. It highlights "Bean to Brew: Pure Brazilian Essence" and invites users to explore "Brazil's Finest Beans" through the menu. This approach not only grabs attention but also sets the theme and quality expectation for the BrazBrew experience, encouraging further exploration with a direct call to action.
+ The hero section was chosen to immediately captivate visitors with a dynamic video background showcasing the essence of Brazilian coffee culture. It highlights "Bean to Brew: Pure Brazilian Essence" and invites users to explore "Brazil's Finest Beans" through the menu. This approach not only grabs attention but also sets the theme and quality expectation for the BrazBrew experience, encouraging further exploration with a direct call to action.
 
 ![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/3a8da399-b1f4-4c28-986d-43379a198967)
 
 <br>
 
-<h3 align="center"> Menu section</h3>
+<h3 align="center"> Menu Section</h3>
  
-- The menu section was designed to clearly showcase the wide variety of offerings at BrazBrew, organized into categories like "Coffee Specialties," "Iced Coffee," and "BrazBrew Signature" for drinks, and similar groupings for food. The use of a coffee bean icon as a visual element reinforces the theme and passion for coffee, while detailed descriptions and prices provide transparency and help customers make informed choices. This layout ensures a user-friendly experience, allowing visitors to easily browse and decide what they’d like to try.
+ The menu section was designed to clearly showcase the wide variety of offerings at BrazBrew, organized into categories like "Coffee Specialties," "Iced Coffee," and "BrazBrew Signature" for drinks, and similar groupings for food. The use of a coffee bean icon as a visual element reinforces the theme and passion for coffee, while detailed descriptions and prices provide transparency and help customers make informed choices. This layout ensures a user-friendly experience, allowing visitors to easily browse and decide what they’d like to try.
 
-![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/2e71693c-3b11-423f-a096-bc659faac73e)
-![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/b9aef0a1-6539-4aab-b9b0-e8cae1ac780d)
+![SCREENSHOT_MENU](https://github.com/camilabandeira/BrazBrew/assets/118302468/2e71693c-3b11-423f-a096-bc659faac73e)
+![SCREENSHOT_MENU](https://github.com/camilabandeira/BrazBrew/assets/118302468/b9aef0a1-6539-4aab-b9b0-e8cae1ac780d)
+
+<h3 align="center">Contact Us Section </h3>
+
+The "Contact Us" section is designed to be welcoming and encourage communication, highlighting BrazBrew's customer-focused approach. It uses a friendly tone and a straightforward form for easy contact. This setup invites feedback and questions, showing the brand values its community. The reassurance of a prompt response after form submission enhances customer service, making visitors feel valued and heard, and strengthening the connection with the brand.
+
+![SCREENSHOT_CONTACT](https://github.com/camilabandeira/BrazBrew/assets/118302468/a9a9f7d6-1d5d-4756-a32e-4d78ac0c3294)
+
+<br>
+
+<h3 align="center">Conection Section </h3>
+
+I chose to integrate a newsletter subscription with the footer navigation on my website for a streamlined and engaging user experience. My goal was to connect directly with my visitors, encouraging them to stay informed with updates and promotions via email. Including essential navigation links and information like contact details and business hours in the footer ensures everything is easily accessible, enhancing usability. This design choice supports both functional navigation and fosters a community around my brand, making the footer a valuable tool for engagement and information.
+
+![SCREENSHOT_CONECTION](https://github.com/camilabandeira/BrazBrew/assets/118302468/6a85a4e2-4127-481f-95a8-45fe166ebcd8)
+
+<br>
+
+<h3 align="center">Footer</h3>
+
+The footer of the Brazbrew Coffee House website is designed to connect and protect. It encourages visitors to follow the brand on popular social media platforms with clear icons for Facebook, Instagram, and Twitter, fostering community engagement. Below, a straightforward copyright notice marks the content as proprietary, underscoring the brand's professionalism. This compact yet impactful footer effectively extends the brand's presence and safeguards its content, wrapping up the site on a note of invitation and legal clarity.
+
+![SCREENSHOT_FOOTER](https://github.com/camilabandeira/BrazBrew/assets/118302468/f07f8bcd-343c-4c9d-ba45-1b53a91b82fb)
+
+<br>
+
+<h3 align="center">About Us Page</h3>
+
+The "About Us" page for BrazBrew is designed to connect with readers by sharing the brand's journey, emphasizing its Brazilian coffee culture, quality commitment, and community focus. It combines engaging storytelling with visuals to paint a vivid picture of what BrazBrew stands for. Highlighting initiatives like "Beans for Good" showcases the brand's dedication to social and environmental responsibility. The page aims to immerse visitors in the BrazBrew experience, inviting them to join the community through social media links in the footer, making it more than just a coffee shop, but a hub with a heart in Dublin.
+
+![SCREENSHOT_ABOUT-US](https://github.com/camilabandeira/BrazBrew/assets/118302468/cdf16f89-fdf6-40c0-a902-0b1a0b8b4e6e)
+
+<br>
+
+<h3 align="center">404 Page</h3>
+
+I chose to create this custom 404 page to improve how my site handles missing pages. It's clear and straightforward, immediately telling visitors they've hit a dead end with a friendly "404 - Page Not Found" message. I included a bit of context to ease any frustration, explaining the page might be gone or moved. The "Back to Homepage" link is key; it gives a simple way back to familiar territory, helping to keep visitors on the site even when they wander off the path. This page turns a potential negative experience into a helpful nudge back to where they want to be.
+
+![SCREENSHOT_ABOUT-US](https://github.com/camilabandeira/BrazBrew/assets/118302468/5d43c6ac-7e52-4756-a05b-f7895b4e3cfd)
