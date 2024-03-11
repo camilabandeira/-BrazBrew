@@ -9,7 +9,7 @@ Welcome to <a href="https://camilabandeira.github.io/BrazBrew/">BrazBrew</a>, a 
 This project was developed for the Code Institute's Diploma in Full-Stack Software Development course. Not only a showcase of a fictional coffee shop's online hub but also a reflection of the skills and knowledge I've acquired through my studies. It represents a bridge between theoretical learning and practical application, demonstrating my ability to create a functional and engaging website from scratch.
 
 <img width="959" align="center" alt="Screenshot 2024-03-04 at 19 20 12" src="https://github.com/camilabandeira/BrazBrew/assets/118302468/1ab537e8-a150-49f6-af54-d33deb853d0e">
-<br>
+</br>
 
 <h4 align="center"><a href="https://camilabandeira.github.io/BrazBrew/"><strong>Live Project</strong></a></h4>
 
@@ -86,7 +86,7 @@ Overall, this navbar design effectively balances user needs with clean aesthetic
 
 ![SCREENSHOT_NAVBAR](https://github.com/camilabandeira/BrazBrew/assets/118302468/dfc4124e-6d48-4044-a57b-07e0e1609710)
 
-<br>
+</br>
 
 <h3 align="center"> Hero Section</h3>
  
@@ -94,7 +94,7 @@ Overall, this navbar design effectively balances user needs with clean aesthetic
 
 ![IMG_4126](https://github.com/camilabandeira/BrazBrew/assets/118302468/3a8da399-b1f4-4c28-986d-43379a198967)
 
-<br>
+</br>
 
 <h3 align="center"> Menu Section</h3>
  
@@ -109,7 +109,7 @@ The "Contact Us" section is designed to be welcoming and encourage communication
 
 ![SCREENSHOT_CONTACT](https://github.com/camilabandeira/BrazBrew/assets/118302468/a9a9f7d6-1d5d-4756-a32e-4d78ac0c3294)
 
-<br>
+</br>
 
 <h3 align="center">Conection Section </h3>
 
@@ -117,7 +117,7 @@ I chose to integrate a newsletter subscription with the footer navigation on my 
 
 ![SCREENSHOT_CONECTION](https://github.com/camilabandeira/BrazBrew/assets/118302468/6a85a4e2-4127-481f-95a8-45fe166ebcd8)
 
-<br>
+</br>
 
 <h3 align="center">Footer</h3>
 
@@ -125,7 +125,7 @@ The footer of the Brazbrew Coffee House website is designed to connect and prote
 
 ![SCREENSHOT_FOOTER](https://github.com/camilabandeira/BrazBrew/assets/118302468/f07f8bcd-343c-4c9d-ba45-1b53a91b82fb)
 
-<br>
+</br>
 
 <h3 align="center">About Us Page</h3>
 
@@ -133,7 +133,7 @@ The "About Us" page for BrazBrew is designed to connect with readers by sharing 
 
 ![SCREENSHOT_ABOUT-US](https://github.com/camilabandeira/BrazBrew/assets/118302468/cdf16f89-fdf6-40c0-a902-0b1a0b8b4e6e)
 
-<br>
+</br>
 
 <h3 align="center">404 Page</h3>
 
@@ -200,3 +200,26 @@ To deploy the website using GitHub Pages:
 
 GitHub Pages will provide you with a URL where your site is published. It should be something like https://username.github.io.
 Open this URL in your browser to verify that your site is deployed correctly.
+
+## Credits
+
+1. [Shields.io](https://shields.io/) -
+   I used Shields in my README for concise, visually appealing project status representation.
+2. [Am I Responsive?](https://ui.dev/amiresponsive) - I used the "Am I Responsive?" website to quickly check how my web project looks on various devices, ensuring it's visually appealing and functional across different screen sizes.
+3. [Font Awesome](https://fontawesome.com/) - I incorporated FontAwesome into my project for its vast collection of icons, enhancing the UI with scalable and visuals.
+4. [Google Fonts](https://fonts.google.com/) - For the typography of my project, I leveraged the extensive library of Google Fonts. This allowed me to select and incorporate high-quality, web-optimized fonts, ensuring that my project's text is both visually appealing and highly readable across different devices and platforms.
+5. [Youtube tutorial for Nav hamburger](https://www.youtube.com/watch?v=YIVXOMvXmNE) - To implement a responsive and user-friendly navigation menu, I followed a detailed YouTube tutorial that guided me through the creation of a hamburger menu. This tutorial was instrumental in helping me design a navigation system that enhances the user experience, especially on mobile devices.
+6. [Convertio](https://convertio.co/pt/) - Incorporated file conversion for PNG to WebP, improving website performance.
+7. [Hero Section video](https://www.pexels.com/video/) - The engaging video content for the hero section was sourced from Pexels.
+8. [Website Images](https://unsplash.com/pt-br) - For visually stunning and high-resolution images throughout my project, I utilized Unsplash.
+9. [Website Images](https://icons8.com/) - The favicon that enhances my project's browser tab and bookmarks presence was sourced from Icons8.
+
+### Acknowledgments
+
+I want to thank my mentor, Sandeep Aggarwal, for the invaluable help with issues of my project and for reviewing my work. Your guidance made a big difference.
+
+A big shout out to the Code Institute community as well. The resources and support have been incredibly helpful for my learning every day.
+
+And to you reading this, thanks for taking the time. Your interest means a lot to me.
+
+Thanks to everyone for the support and encouragement on this journey.
