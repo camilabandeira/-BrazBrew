@@ -16,7 +16,7 @@ navEl.addEventListener('click', () => {
 //  contact-us form thank you message
 
 document.addEventListener('DOMContentLoaded', function() {
-    let contactUsForm = document.getElementById('contact-us');
+    let contactUsForm = document.getElementById('contact-us-form');
     if (contactUsForm) {
         contactUsForm.addEventListener('submit', function(e) {
             e.preventDefault();
