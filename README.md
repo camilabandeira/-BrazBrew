@@ -15,11 +15,35 @@ This project was developed for the Code Institute's Diploma in Full-Stack Softwa
 
 ## Table of Contents
 
-- [User Experience (UX)](#user-experience-ux)
-  - [User Stories](#user-stories)
-- [Design](#colour-scheme)
-  - [Colour Scheme](#colour-scheme)
-  - [Typography](#typography)
+1. [User Experience (UX)](#user-experience-ux)
+   - [User Stories](#user-stories)
+     - [User Goals](#user-goals)
+     - [Company Goals](#company-goals)
+2. [Design](#design)
+   - [Colour Scheme](#colour-scheme)
+   - [Typography](#typography)
+   - [Wireframes](#wireframes)
+3. [Features](#features)
+   - [Existing Features](#existing-features)
+     - [Navigation](#navigation)
+     - [Hero Section](#hero-section)
+     - [Menu Section](#menu-section)
+     - [Contact Us Section](#contact-us-section)
+     - [Connection Section](#connection-section)
+     - [Footer](#footer)
+     - [About Us Page](#about-us-page)
+     - [404 Page](#404-page)
+4. [Technologies](#technologies)
+   - [Main Technologies Used](#main-technologies-used)
+   - [Other Technologies Used](#other-technologies-used)
+5. [Testing](#testing)
+   - [Validator Testing](#validator-testing)
+     - [HTML](#html)
+     - [CSS](#css)
+     - [Lighthouse](#lighthouse)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+8. [Acknowledgments](#acknowledgments)
 
 ## User Experience (UX)
 
@@ -156,8 +180,6 @@ I chose to create this custom 404 page to improve how my site handles missing pa
 
 ## Testing
 
-### Automated Testing
-
 #### Validator Testing
 
 - #### HTML
@@ -214,12 +236,12 @@ Open this URL in your browser to verify that your site is deployed correctly.
 8. [Website Images](https://unsplash.com/pt-br) - For visually stunning and high-resolution images throughout my project, I utilized Unsplash.
 9. [Website Images](https://icons8.com/) - The favicon that enhances my project's browser tab and bookmarks presence was sourced from Icons8.
 
-### Acknowledgments
+## Acknowledgments
 
-I want to thank my mentor, Sandeep Aggarwal, for the invaluable help with issues of my project and for reviewing my work. Your guidance made a big difference.
+- I want to thank my mentor, Sandeep Aggarwal, for the invaluable help with issues of my project and for reviewing my work. Your guidance made a big difference.
 
-A big shout out to the Code Institute community as well. The resources and support have been incredibly helpful for my learning every day.
+- A big shout out to the Code Institute community as well. The resources and support have been incredibly helpful for my learning every day.
 
-And to you reading this, thanks for taking the time. Your interest means a lot to me.
+- And to you reading this, thanks for taking the time. Your interest means a lot to me.
 
 Thanks to everyone for the support and encouragement on this journey.
