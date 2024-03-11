@@ -143,8 +143,60 @@ I chose to create this custom 404 page to improve how my site handles missing pa
 
 ## Technologies
 
-### Programming Languages
+### Main Tecnologies Used
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Other Tecnologies Used
+
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+## Testing
+
+### Automated Testing
+
+#### Validator Testing
+
+- #### HTML
+
+  [W3C Markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcamilabandeira.github.io%2FBrazBrew%2Findex.html) Both "index" and "about-us" pages have successfully passed the validation on the W3C Markup Validation Service. <br>
+
+  <img src="https://github.com/camilabandeira/BrazBrew/assets/118302468/ee59fa30-dbe8-4a56-b169-e7ba530a46c4" alt="Screenshot HTML Validator" width="350">
+
+- #### CSS
+
+  [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcamilabandeira.github.io%2FBrazBrew%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) GPT
+  No errors were found when validating the CSS through the W3C Jigsaw CSS Validation Service.<br>
+
+    <img src="https://github.com/camilabandeira/BrazBrew/assets/118302468/76f09058-6320-4a0f-88f3-244e0781029a" alt="Screenshot CSS Validator" width="350">
+
+- #### LightHouse
+
+I used Lighthouse to test the website for performance, accessibility, best practices, and SEO.
+
+#### Desktop
+
+ <img src="https://github.com/camilabandeira/BrazBrew/assets/118302468/18311a37-656b-4b16-939a-47f64127dee2" alt="Screenshot Lighthouse Performance Desktop" width="350">
+
+#### Mobile
+
+ <img src="https://github.com/camilabandeira/BrazBrew/assets/118302468/e5831b37-a018-4ebf-86ca-569c57135225" alt="Screenshot Lighthouse Performance Mobile" width="350">
+
+## Deployment
+
+The website is deployed using GitHub Pages - [BrazBrew](https://camilabandeira.github.io/BrazBrew/)
+
+To deploy the website using GitHub Pages:
+
+1. Go to your repository on GitHub.
+2. Click on the "Settings" tab.
+3. Scroll down to the "GitHub Pages" section.
+4. Under "Source," select "master branch" (or another branch if you're using a different one).
+5. Click "Save."
+6. Verify Deployment:
+
+GitHub Pages will provide you with a URL where your site is published. It should be something like https://username.github.io.
+Open this URL in your browser to verify that your site is deployed correctly.
