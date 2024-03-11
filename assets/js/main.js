@@ -13,29 +13,43 @@ navEl.addEventListener('click', () => {
     hamburgerEl.classList.remove('hamburger--open');
 });
 
-// form thank you message
+//  contact-us form thank you message
 
-document.getElementById('contact-us-form').addEventListener('submit', function(e) {
-    e.preventDefault();
-
-    this.style.display = 'none';
-
-    document.getElementById('thank-you-msg').style.display = 'block';
+document.addEventListener('DOMContentLoaded', function() {
+    let contactUsForm = document.getElementById('contact-us');
+    if (contactUsForm) {
+        contactUsForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            this.style.display = 'none'; 
+            
+            let thankYouMessage = document.getElementById('thank-you-msg');
+            if (thankYouMessage) {
+                thankYouMessage.style.display = 'block'; 
+            }
+        });
+    }
 });
+
 
 // newsletter-form
 
-document.getElementById('newsletter-form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevents the traditional form submission.
-    
-    const emailInput = document.querySelector('[name="email"]');
-    const email = emailInput.value;
+document.addEventListener('DOMContentLoaded', function() {
+    let newsletterForm = document.getElementById('newsletter-form');
+    if (newsletterForm) {
+        newsletterForm.addEventListener('submit', function(event) {
+            event.preventDefault(); 
+            
+            let emailInput = document.querySelector('[name="email"]');
+            let email = emailInput.value;
 
-    showCustomAlert();
-    
-    console.log('Email for subscription:', email);
+            showCustomAlert();
+            
+            console.log('Email for subscription:', email);
 
-    emailInput.value = '';
+            emailInput.value = '';
+        });
+    }
 });
 
 function showCustomAlert() {
